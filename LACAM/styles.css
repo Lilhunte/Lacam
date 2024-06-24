@@ -219,38 +219,6 @@ section {
   text-align: center;
 }
 
-/* #relics{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-} */
-/* #relic-gallery {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-} */
-/* 
-#relic-gallery img {
-    margin: 10px;
-} */
-
-/* form {
-    display: flex;
-    flex-direction: column;
-    width: auto;
-    max-width: 400px;
-    margin: 0 auto;
-}
-
-form label {
-    margin-top: 10px;
-}
-
-form input, form button {
-    margin-top: 5px;
-    padding: 10px;
-} */
-
 footer {
   height: 435px;
   background: linear-gradient(to right, #e2e2e2, #CA6C3A);
